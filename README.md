@@ -7,7 +7,7 @@ This project has been devided to below parts:<br>
 -section1: Data Curtain<br>
 -section2: <br>
 ## Subsection 1: Data Curtain
-The [dataset](https://www.kaggle.com/datasets/redwankarimsony/heart-disease-data) has been chosen from UCI Machine Learning Repository and consists of 4 different hospitals:<br>
+The [dataset](https://www.kaggle.com/datasets/redwankarimsony/heart-disease-data) has been chosen from UCI Machine Learning Repository and consisted of 4 different datasets which belong to patinets from different hospitals. In below the name of hospitals and number of patients in each of them have been provided:<br>
 - Cleveland Clinic Foundation (303 observations)
 - Hungarian Institute of Cardiology, Budapest (294 observations)
 - V.A. Medical Center, Long Beach, CA (200 observations)
