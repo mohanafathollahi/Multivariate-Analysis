@@ -12,3 +12,5 @@ The [dataset](https://www.kaggle.com/datasets/redwankarimsony/heart-disease-data
 - Hungarian Institute of Cardiology, Budapest (294 observations)
 - V.A. Medical Center, Long Beach, CA (200 observations)
 - University Hospital, Zurich, Switzerland (123 observations)
+The features that are common in all these datasets are provided in below table and in general 14 features have been considerd.<br>
+![Comm Features](Images/Channel_independence.png)<br>
