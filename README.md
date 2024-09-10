@@ -13,7 +13,7 @@ The [dataset](https://www.kaggle.com/datasets/redwankarimsony/heart-disease-data
 - V.A. Medical Center, Long Beach, CA (200 observations)
 - University Hospital, Zurich, Switzerland (123 observations)<br>
 The features that are common in all these datasets are provided in below table and in general 14 features have been considerd.<br>
-<img src="Images/Features_table" alt="patching" width="500"/><br>
+<img src="Images/Features_table.png" alt="patching" width="500"/><br>
 
 <br>
 
